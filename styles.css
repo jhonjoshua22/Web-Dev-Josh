@@ -53,7 +53,7 @@ main {
 }
 
 .intro {
-    background-image: url('C:\Users\acer\Downloads\bg.jpg');
+    background-image: url('bg.jpg');
     background-size: cover;
     background-position: center;
     padding: 5rem 2rem; /* Adjust padding to fit the content */
